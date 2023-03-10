@@ -1,0 +1,134 @@
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+}
+.logo{
+    width: 150px;
+    float:left;
+    color: white;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.nav-con{
+    width:550px;
+    height: 50px;
+    float:right; 
+    margin-right: 90px;
+    margin-top: 20px;
+}
+.nav-con ul{
+    list-style: none;
+}
+.nav-con li{
+    float: left;
+    height: 35px;
+    background-color: white;
+    color:#2b2b2b;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+header{
+    width: 100%;
+    height: 98.5vh;
+    background-color: lightgrey;
+    padding-left: 10%;
+    padding-top: 150px;
+}
+header h1{
+    font-size: 45px;
+}
+header p{
+    margin-top: 15px;
+    width: 800px;
+}
+section{
+    width:100%;
+    height: 100px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+.title-heading{
+    text-align:center;
+    margin-top: 40px;
+}
+.title-card{
+    width:275px;
+    height:250px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.col-4 .text{
+    width: 275px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.card-btn{
+    width: 150px;
+    height: 35px;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding-top: 5px;
+    text-align: center;
+}
+.card-btn:hover{
+    background-color: white;
+    color:#2b2b2b;
+    border: 2p solid #2b2b2b;
+    cursor:pointer;
+}
+.row-heading{
+    text-align: center;
+    margin-top:50px;
+}
+.col-box{
+    width: 500px;
+    height: 400px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left:20px;
+}
+.col-6 .text{
+    margin-left:20px;
+    margin-top: 20px;
+}
+.btn2{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding-top: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+.btn2{
+    background-color: #2b2b2b;
+    color:white;
+    cursor:pointer;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: #2b2b2b;
+    color: white;
+    font-style: italic;
+    margin-top: 100px;
+    padding-top: 50px;
+}
